@@ -1,1 +1,1 @@
-# pr-kipik
+# pr-kipik-app
